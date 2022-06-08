@@ -1,0 +1,15 @@
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\bin\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.exe
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\bin\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.deps.json
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\bin\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.runtimeconfig.json
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\bin\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.dll
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\bin\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.pdb
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.csproj.AssemblyReference.cache
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.AssemblyInfoInputs.cache
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.AssemblyInfo.cs
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.csproj.CoreCompileInputs.cache
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.dll
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\refint\Resolucion Ejercicio 2 Clase 09.dll
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.pdb
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\Resolucion Ejercicio 2 Clase 09.genruntimeconfig.cache
+C:\Users\Net\source\repos\PoloMinaClavero.NetCore\ResolucionEjercicioClase 09\Resolucion Ejercicio 2 Clase 09\Resolucion Ejercicio 2 Clase 09\obj\Debug\net6.0\ref\Resolucion Ejercicio 2 Clase 09.dll
